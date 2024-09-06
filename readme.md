@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer engineering at UCM.
+- 🎓 &nbsp; Studying Computer engineering at [UCM](https://www.ucm.es/).
 
 
 <h3>🛠 Tech Stack</h3>
