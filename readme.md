@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | VHDL | JAVA
+- 💻 &nbsp; C++ | VHDL | JAVA | QMK | KICAD
 
 <br>
 
